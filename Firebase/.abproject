@@ -6,7 +6,7 @@
   "DisplayName": "Firebase",
   "Author": "Telerik",
   "Description": "Firebase",
-  "BundleVersion": "1.0",
+  "BundleVersion": "1.1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
     "1",
@@ -22,6 +22,7 @@
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
   "FrameworkVersion": "4.0.0",
   "CorePlugins": [
+    "com.firebase.sdk@1.1.0",
     "cordova-plugin-console",
     "cordova-plugin-crosswalk-webview@1.2.0",
     "cordova-plugin-device",
